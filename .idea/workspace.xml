@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7faebecf-257a-4cfb-b30e-c4e06083814d" name="Changes" comment="" />
+    <list default="true" id="7faebecf-257a-4cfb-b30e-c4e06083814d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/radio/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/radio/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +38,108 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "/home/olya/Progect_Idea_Java/Java10CImvn/Java10CImvn/src/test/java"
+    "last_directory_selection": "/home/olya/Progect_Idea_Java/Java10CImvn/Java10CImvn/src/test/java",
+    "last_opened_file_path": "/home/olya/Progect_Idea_Java/Java9CI"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean" />
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RadioTest.currentStationNextMax5">
+    <configuration name="RadioTest.currentStationNextAboveMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java10CImvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
+      <option name="METHOD_NAME" value="currentStationNextAboveMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.currentStationNextMax1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java10CImvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
+      <option name="METHOD_NAME" value="currentStationNextMax1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.currentStationNextMax4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java10CImvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
+      <option name="METHOD_NAME" value="currentStationNextMax4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.currentStationNextMax5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java10CImvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
+      <option name="METHOD_NAME" value="currentStationNextMax5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.currentStationPrevLessToMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java10CImvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.radio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.radio" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
+      <option name="METHOD_NAME" value="currentStationPrevLessToMin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RadioTest.currentStationNextMax5" />
+        <item itemvalue="JUnit.RadioTest.currentStationPrevLessToMin" />
+        <item itemvalue="JUnit.RadioTest.currentStationNextMax1" />
+        <item itemvalue="JUnit.RadioTest.currentStationNextMax4" />
+        <item itemvalue="JUnit.RadioTest.currentStationNextAboveMax" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,5 +161,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
