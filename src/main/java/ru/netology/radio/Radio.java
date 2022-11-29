@@ -34,7 +34,7 @@ public class Radio {
         if (newNumberRadioStation < 0) {
             return;
         }
-        if (newNumberRadioStation > 9) {
+        if (newNumberRadioStation >9) {
             return;
         }
         numberRadioStation = newNumberRadioStation;
@@ -45,7 +45,7 @@ public class Radio {
 
         if (numberRadioStation < 9) {
             numberRadioStation++;
-        } else {
+        }else {
             numberRadioStation = 0;
         }
     }
